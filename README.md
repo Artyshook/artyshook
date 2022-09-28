@@ -21,8 +21,6 @@
 
 ### Contact me:
 
-[![Telegram](https://img.shields.io/badge/-telegram-00A8E6?style=for-the-badge&logo=telegram)]((https://www.linkedin.com/in/saibel-artem/))</br>
+[![Telegram](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saibel-artem/)</br>
 [Website](saibel.cz)</br>
-
-
 
