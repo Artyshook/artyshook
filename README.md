@@ -21,7 +21,7 @@
 
 ### Contact me:
 
-[![LinkedIn](https://www.linkedin.com/in/saibel-artem/)
+[![LinkedIn]((https://www.linkedin.com/in/saibel-artem/))
 [![Website]](saibel.cz)
 
 
