@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Artem
 
-#### I'm a frontend developer. Working with my hands to make magic on the internet
+#### I'm a frontend developer. Working with my hands to make magic on the internet 🔮
 
 ### Skills:
 
