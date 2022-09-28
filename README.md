@@ -11,6 +11,7 @@
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282C34?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-282C34?style=for-the-badge&amp;logo=html5"/>
 <img alt="CSS" src="https://img.shields.io/badge/-css3-282C34?style=for-the-badge&amp;logo=css3&amp;logoColor=3296D0"/>
+<img alt="Node.js" src="https://img.shields.io/badge/-node-282C34?style=for-the-badge&amp;logo=node"/>
 <img alt="MaterialUI" src="https://img.shields.io/badge/-material_ui-282C34?style=for-the-badge&amp;logo"/>
 <img alt="GitHub" src="https://img.shields.io/badge/-github-282C34?style=for-the-badge&amp;logo=github"/>
 <img alt="GitLab" src="https://img.shields.io/badge/-gitlab-282C34?style=for-the-badge&amp;logo=gitlab"/>
